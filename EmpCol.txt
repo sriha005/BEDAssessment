@@ -1,0 +1,4 @@
+firstName | lastName | dob
+Rack | jackson | 04/07/1996
+Dak | Prescott | Invalid - Format
+Invalid - Non Alphabet | Invalid - Non Alphabet | Invalid - Format
