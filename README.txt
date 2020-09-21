@@ -13,3 +13,13 @@ BED-0.0.1-SNAPSHOT.jar file located in the target folder. This can be done from 
 the command:
  
 java -jar target/BED-0.0.1-SNAPSHOT.jar
+
+The files involved in this application:
+
+yurop 661.jpg - an image file
+EmpCol - a pipe delimited file with three columns representing employees
+Empsheet - An excel worksheet with three columns representing employees
+imageEmployees.json - a json file outputted which has name, size of image plus list of employees
+person.json - contains list of employees that are read in
+pics - folder where images are moved to by application
+archive - folder where images are moved if already existing in pics.
