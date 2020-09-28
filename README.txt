@@ -3,7 +3,7 @@ This application consists of three main functions:
 -setup() which creates the properties file
 -Image.writeImage("old_image_path", "new_image_path") which stores the image in a different directory under a new name if desired
 -Json.ReadJson("old_image_path"); takes the old image in order to output name and size to Json but its main purpose is to read Json file containing Employee list (person.json) and output to Excel, imageEmployees.json and text file EmpCol.
-NOTE:The image path is hardcoded for now but can be changed by including it in the properties file.
+NOTE:The image path is hardcoded for now but can be changed by including it in the properties file. person.json can also be included as a property in property file rather than be hardcoded, same goes for imageEmployees.json.
 
 For getting this application running, there are 2 ways to do it
 
